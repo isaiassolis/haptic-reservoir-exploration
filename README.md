@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Haptic Reservoir Exploration — Technical Leadership, Haptic Technology and Reservoir Modeling" />
+  <img src="assets/banner.svg" width="100%" alt="Haptic Reservoir Exploration — Interacción háptica y desarrollo para Petrel" />
 </p>
 
 <p align="center">
@@ -9,78 +9,66 @@
   <img src="https://img.shields.io/badge/Petrel-Plugin-12395D?style=for-the-badge" alt="Petrel plugin" />
 </p>
 
-# Interacción háptica y modelado de incertidumbre en yacimientos
+# Interacción háptica y exploración de yacimientos
 
-**Liderazgo técnico e ingeniería de hardware y software · Investigación y desarrollo industrial · Proyecto iniciado en 2015**
+**Liderazgo técnico · Ingeniería de hardware y software · Investigación y desarrollo industrial**
 
-Este proyecto marcó mi entrada a la industria de hidrocarburos. Participé como **líder técnico e ingeniero de hardware y software** en el desarrollo de una solución para explorar información de yacimientos mediante **interacción háptica**, visualización científica y análisis de incertidumbre.
+Este fue uno de los proyectos con los que inicié mi trayectoria en la industria de hidrocarburos. Participé como **líder técnico e ingeniero de hardware y software** en el desarrollo de una solución para explorar modelos de yacimientos mediante interacción háptica.
 
-El proyecto evolucionó a lo largo de **tres fases**: comenzamos con un prototipo utilizando un dispositivo **Phantom Desktop** y culminamos con un producto implementado como **complemento (plugin) para Petrel de Schlumberger**, integrando un dispositivo háptico. También presentamos el proyecto en la **Offshore Technology Conference (OTC)**.
+El trabajo comenzó en **2015** y evolucionó a lo largo de **tres fases**: desde un prototipo funcional con un dispositivo **Phantom Desktop** hasta un **plugin para Petrel de Schlumberger** que integraba interacción háptica.
 
-> **Nota de alcance:** Este repositorio no es el código fuente del producto y no reproduce información propietaria.
+También presentamos el proyecto en la **Offshore Technology Conference (OTC)**.
 
 ## El desafío
 
-La interpretación de yacimientos no convencionales implica analizar múltiples fuentes de información geológica y espacial, así como escenarios de incertidumbre asociados con factores operativos, ambientales, sociales y económicos.
+La exploración e interpretación de yacimientos involucra modelos geológicos complejos, información espacial y variables difíciles de analizar mediante una sola representación.
 
-La idea era **ampliar la experiencia de exploración visual con retroalimentación táctil**, de modo que los especialistas pudieran interactuar con representaciones complejas de los yacimientos y evaluar diferentes condiciones.
+Nos propusimos incorporar **retroalimentación táctil** a la interacción con esos modelos, para ampliar las formas en que un especialista podía explorar e interpretar información del subsuelo.
 
 ## De prototipo a producto
 
-| Fase | Evolución documentada desde mi experiencia |
+| Etapa | Desarrollo |
 | :--- | :--- |
-| **1. Prototipo** | Desarrollamos una primera versión funcional con el dispositivo háptico **Phantom Desktop**. |
-| **2. Integración** | Evolucionamos los componentes de hardware y software para su utilización en el entorno de modelado de yacimientos. |
-| **3. Producto** | Culminamos con un **plugin integrado en Petrel de Schlumberger**, con interacción mediante dispositivo háptico. |
+| **1. Prototipo funcional** | Construimos una primera solución de interacción háptica utilizando el dispositivo **Phantom Desktop**. |
+| **2. Evolución tecnológica** | Trabajamos en la integración y evolución de los componentes de hardware y software. |
+| **3. Integración con Petrel** | Culminamos el desarrollo con un **plugin para Petrel**, conectado con un dispositivo háptico. |
 
-El proyecto fue presentado en la **OTC**.
+El resultado fue una solución especializada que llevó la experimentación inicial a un entorno de software utilizado en la industria energética.
 
-## Enfoque tecnológico
+## Tecnología y enfoque de investigación
 
-- **Interacción háptica:** respuesta física para enriquecer la exploración de entornos virtuales.
-- **Modelado probabilístico:** inferencia bayesiana aplicada a escenarios de riesgo e incertidumbre.
-- **GIS:** integración de capas de información espacial.
-- **Visualización científica 3D:** representación de modelos geológicos y de datos del yacimiento.
-- **Petrel / Ocean:** entorno de integración de capacidades especializadas mediante complementos.
+La solución combinó **hardware de interacción háptica, desarrollo de software e integración con herramientas de modelado de yacimientos**.
 
-## Flujo conceptual de la solución
+El planteamiento de investigación también exploraba la integración de información geográfica, visualización científica tridimensional y métodos probabilísticos para estudiar escenarios de incertidumbre. Esas líneas formaban parte del enfoque del proyecto; no todas corresponden necesariamente a funciones del plugin final.
 
 ```mermaid
 flowchart LR
-  A[Información geológica y espacial] --> B[Entorno de visualización del yacimiento]
-  C[Modelos de incertidumbre previstos] --> B
-  B --> D[Plugin para Petrel]
-  D <--> E[Dispositivo háptico]
-  E --> F[Interacción del especialista]
+  A[Modelos e información del yacimiento] --> B[Entorno de exploración]
+  B --> C[Plugin para Petrel]
+  C <--> D[Dispositivo háptico]
+  D --> E[Interacción táctil del especialista]
 ```
-
-*Diagrama explicativo de alto nivel: no reproduce la arquitectura interna ni el funcionamiento propietario.*
 
 ## Mi participación
 
-Fui **líder técnico e ingeniero de hardware y software**. Mi trabajo combinó desarrollo, integración de componentes tecnológicos y liderazgo durante la evolución del prototipo hacia un producto especializado.
+Como **líder técnico e ingeniero de hardware y software**, participé directamente en el desarrollo e integración de componentes y en la coordinación técnica de la evolución del proyecto.
 
-Esta experiencia fue el punto de partida de mi trayectoria posterior en soluciones para la industria energética.
+Esta experiencia combinó **investigación aplicada, prototipado, ingeniería de sistemas e integración de tecnología especializada**. También marcó el comienzo de mi trabajo posterior con soluciones para la industria Oil & Gas.
 
-## Resultado y difusión
+## Resultados
 
-- Prototipo funcional inicial con **Phantom Desktop**.
-- Desarrollo a través de **tres fases**.
-- Producto final como **plugin para Petrel**, con integración háptica.
+- Desarrollo de un **prototipo funcional** con Phantom Desktop.
+- Evolución del trabajo a lo largo de **tres fases** de desarrollo.
+- Construcción de una solución final integrada como **plugin para Petrel**.
 - Presentación del proyecto en la **Offshore Technology Conference**.
 
-No publico métricas de productividad, cifras comerciales o certificaciones que no estén verificadas.
+## Sobre el proyecto
 
-## Documentación
+El desarrollo partió de una iniciativa de investigación e innovación planteada en 2015. Este repositorio presenta mi participación profesional y la evolución tecnológica del proyecto, sin distribuir su código fuente ni materiales internos.
 
-- [Contexto, evolución y límites del caso](docs/project-context.md).
-- Fuente histórica de referencia: *Interacción háptica y modelado estocástico de incertidumbre en yacimientos no-convencionales* — propuesta de **Proyectos de Estímulos a la Innovación 2015**.
-
-## Propiedad intelectual
-
-Este es un **caso de estudio profesional**. No incluyo el documento original de 54 páginas, presupuestos, código, algoritmos, diseños de integración ni materiales comerciales internos. Las marcas **Petrel**, **Schlumberger** y los productos mencionados pertenecen a sus titulares; su mención no implica patrocinio ni afiliación actual.
+[Más sobre el desarrollo y mi participación](docs/project-context.md).
 
 ---
 
-<p align="center"><strong>De la experimentación háptica a una herramienta especializada para la industria energética.</strong></p>
-<p align="center">Caso de estudio profesional de <a href="https://github.com/isaiassolis">Isaías Solís</a></p>
+<p align="center"><strong>Investigación aplicada · Ingeniería de hardware y software · Integración tecnológica</strong></p>
+<p align="center"><a href="https://github.com/isaiassolis">Volver a mi portafolio profesional</a></p>
