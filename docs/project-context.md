@@ -1,33 +1,37 @@
-# Contexto y evolución del proyecto
+# Interacción háptica — Evolución del proyecto
 
-## Mi rol
+## Un inicio en la industria energética
 
-Este proyecto marcó mi inicio en la industria de hidrocarburos. Participé como **líder técnico e ingeniero de hardware y software**.
+Este proyecto marcó mi entrada a la industria de hidrocarburos. Participé como **líder técnico e ingeniero de hardware y software** en la creación de una solución para explorar modelos de yacimientos mediante interacción háptica.
 
-## Evolución real del desarrollo
+El planteamiento comenzó en 2015 y se convirtió en un desarrollo realizado en tres etapas.
 
-Según mi experiencia directa, el desarrollo se organizó en **tres fases**:
+## Evolución del desarrollo
 
-1. **Prototipo:** construcción de una primera solución funcional con **Phantom Desktop**.
-2. **Evolución:** avance e integración de los componentes de hardware y software.
-3. **Producto:** implementación de una solución como **plugin para Petrel de Schlumberger**, con interacción háptica.
+### Primera etapa — Prototipo
 
-También participamos en la difusión del proyecto en la **Offshore Technology Conference (OTC)**.
+Construimos una primera solución funcional utilizando un dispositivo **Phantom Desktop**, que permitía experimentar con la interacción táctil en un entorno de exploración.
 
-## Capacidades que demuestra
+### Segunda etapa — Integración
 
-Mi participación abarcó **ingeniería de hardware y software, liderazgo técnico, integración de sistemas y desarrollo tecnológico orientado al sector energético**. La documentación original muestra la complejidad del enfoque de investigación, mientras que mi experiencia aporta la evolución posterior hasta el complemento de Petrel.
+Avanzamos en la evolución e integración de componentes de hardware y software, preparando su aplicación en herramientas especializadas de modelado.
 
-## Límites de divulgación
+### Tercera etapa — Producto integrado
 
-Esta documentación pública no reproduce:
+El desarrollo culminó con un **plugin para Petrel de Schlumberger** que incorporaba interacción con un dispositivo háptico.
 
-- Código fuente, algoritmos o modelos matemáticos propietarios.
-- Diseños internos de hardware y detalles de la comunicación háptica.
-- Presupuestos, proyecciones comerciales o información confidencial de la propuesta.
-- Documentos de contratación, acuerdos, licencias o datos operativos de clientes.
-- Afirmaciones cuantitativas de impacto sin evidencia independiente.
+También presentamos el proyecto en la **Offshore Technology Conference (OTC)**.
 
-## Referencia
+## Mi participación
 
-*Interacción háptica y modelado estocástico de incertidumbre en yacimientos no-convencionales*, Proyectos de Estímulos a la Innovación 2015, Centro para la Innovación y el Conocimiento Tecnológico, S.A. de C.V. (documento interno consultado; no redistribuido).
+Mi trabajo combinó **ingeniería de hardware y software, integración de componentes y liderazgo técnico** durante la evolución del prototipo hacia una herramienta especializada.
+
+La experiencia me permitió participar en un desarrollo de investigación aplicada que conectó dispositivos físicos, software y necesidades de la industria energética.
+
+## Enfoque de investigación
+
+La iniciativa original exploró posibilidades de **visualización científica, información geográfica y modelado probabilístico de incertidumbre** en yacimientos no convencionales. Estas líneas ayudaron a definir el problema de investigación y no deben confundirse con una lista de funciones verificadas del plugin final.
+
+## Sobre el producto
+
+El proyecto se desarrolló en un contexto industrial de investigación e innovación. El código fuente, los diseños internos y los materiales propietarios no forman parte de este repositorio.
