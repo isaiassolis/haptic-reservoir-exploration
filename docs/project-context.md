@@ -4,12 +4,6 @@
 
 Este proyecto marcó mi inicio en la industria de hidrocarburos. Participé como **líder técnico e ingeniero de hardware y software**.
 
-## Alcance de la propuesta de 2015
-
-La propuesta *Interacción háptica y modelado estocástico de incertidumbre en yacimientos no-convencionales* contempló combinar modelos de incertidumbre basados en redes bayesianas, información GIS, visualización científica e interacción háptica para apoyar la comprensión de riesgos en yacimientos de hidrocarburos.
-
-El plan incluía investigación, requisitos, arquitectura, desarrollo de módulos, integración, pruebas, transferencia y cierre. También identificó tecnologías de integración como **ProBT**, **Petrel/Ocean** y dispositivos hápticos. Al ser una propuesta, sus actividades, presupuesto, participantes potenciales y resultados esperados no prueban por sí solos su ejecución.
-
 ## Evolución real del desarrollo
 
 Según mi experiencia directa, el desarrollo se organizó en **tres fases**:
@@ -18,7 +12,7 @@ Según mi experiencia directa, el desarrollo se organizó en **tres fases**:
 2. **Evolución:** avance e integración de los componentes de hardware y software.
 3. **Producto:** implementación de una solución como **plugin para Petrel de Schlumberger**, con interacción háptica.
 
-También participamos en la difusión del proyecto en la **Offshore Technology Conference (OTC)**. La edición exacta y el formato de participación quedan pendientes de corroboración documental.
+También participamos en la difusión del proyecto en la **Offshore Technology Conference (OTC)**.
 
 ## Capacidades que demuestra
 
